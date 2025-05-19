@@ -1,2 +1,2 @@
-# FACE-ATTENCENCE-SYSTEM-USING-AIML
-The Face Attendance System is an innovative project designed to automate and streamline the attendance-taking process using facial recognition technology. I use the KNN algorithm for accurately identify individuals and record their attendance in real-time.
+# ROBUST HUMAN TARGET DETECTION
+The Robust Human Target Detection system is an innovative project designed to automate and streamline the identification process using advanced facial recognition techniques. This project leverages the K-Nearest Neighbors (KNN) algorithm to accurately detect and recognize human targets in real-time, making it suitable for applications such as smart surveillance, automated attendance, and human tracking systems.
